@@ -209,6 +209,10 @@ class typeChecker {
 		return false 
 	}
 
+	/**
+	 * Check if the element was an HTML element
+	 * @param {*} el - The element to test
+	 */
 	static isHTML(el){}
 
 	
