@@ -1,0 +1,19 @@
+{
+  "name": "typechecker",
+  "version": "1.0.0",
+  "description": "Javascript data type checker",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "check",
+    "type",
+    "strict"
+  ],
+  "author": "Maxence Guyonvarho",
+  "license": "ISC",
+  "devDependencies": {
+    "mocha": "^5.2.0"
+  }
+}
